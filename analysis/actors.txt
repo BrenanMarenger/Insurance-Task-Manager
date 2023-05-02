@@ -1,0 +1,11 @@
+Customer
+Designer (Architect?)
+Coder
+Admin
+Analyst
+Tester/QA
+
+Database (User, project)
+Documents
+Policy
+Controllers?

@@ -1,0 +1,10 @@
+Name: Provision User - Admin, Project Manager
+Actors:
+Description:
+	
+	- Project Manager
+		- Assign Projects
+		- Change Project Permission
+
+	- Admin
+		- Associates UserDB with ProjectDB

@@ -1,0 +1,31 @@
+Customer:
+    may login, view the documents for:
+        viewCurrentProjects
+        viewUserProfiles
+        viewTestResults
+    may submitFeedback
+
+Coder:
+    RunTest
+    CreateTestPlan
+    DocumentTestResults
+    ViewActiveProjects
+    GenerateCodeForObjec
+
+Designer:
+    DesignObject
+    ViewActiveProjects
+    SeeObjectInteractions
+    RefactorClassHeirarchies
+    DocumentTestResults
+
+Admin:
+    Login - Users, project
+    EditDocument
+    CreateDocument
+    DeleteDocument
+    BrowseDocument
+    ViewActiveProjects
+    ProvisionUser
+    ViewUserProfiles
+    DescribeSubsystemContracts?

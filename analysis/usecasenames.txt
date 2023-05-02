@@ -1,0 +1,18 @@
+Login - Users(admin, etc)
+Login - UserDB
+Login - ProjectDB
+EditDocument
+CreateDocument
+DeleteDocument
+BrowseDocument
+RunTest
+CreateTestPlan
+DocumentTestResults
+SubmitFeedback - Customer
+ViewActiveProjects
+ViewUserProfiles
+DesignObject - Designer
+GenerateCodeForObject - Designer, Coder
+SeeObjectInteractions
+RefactorClassHeirarchies
+DescribeSubsystemContracts

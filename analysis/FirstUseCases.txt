@@ -1,0 +1,53 @@
+erLogin(20)
+
+You will be able to present a login screen and web browser
+enter a username and password, password will be encrypted(bcrypt)
+server side if the password and username authenticate it will 
+start a session for the user
+
+user object thing? a bunch of those in a database serverside
+each has permissions 
+
+General
+ - Visual Login Screen
+ - Send Username and bcrypted pw to server
+ - Authenticate based on list of user objects
+ - "start session" (maybe create a generic landing page)
+
+Server
+ - Create a server to manage users
+ - create a list of user objects
+ - method to authenticate encrypted pw and username based on list
+ - update client side to generic landing page
+Client
+ - visual login screen
+ - message send with username and pw to server
+
+
+ManageClassSpecifications(20)
+
+class name super class name a set of variable specs variable name and type information
+what type  of messages does that object support specify class variables and methods and
+instance variables and methods
+
+CRUD the class specifications all four separate tasks
+
+
+ManageUseCases(20)
+
+
+ManageConversations(20)
+
+
+ManageSystemContexts(20)
+
+
+CreateProjects(20)
+
+
+ManageProjectStaffing(20)
+
+
+ManageProjectDocuments(20)
+
+
